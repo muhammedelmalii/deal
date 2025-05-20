@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "npm run build:web",
-  "outputDirectory": "web-build",
-  "framework": "expo",
-  "installCommand": "npm install",
   "builds": [
     {
       "src": "package.json",
